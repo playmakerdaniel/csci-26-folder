@@ -23,7 +23,6 @@ int gcd(int x, int y) {
     return x;
 }
 
-// Main program
 int main() {
     int x, y;
 
